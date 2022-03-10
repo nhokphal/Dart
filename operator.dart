@@ -1,5 +1,3 @@
-import 'dart:ffi';
-
 void main() {
   // init new object
   AddNum c = new AddNum();
